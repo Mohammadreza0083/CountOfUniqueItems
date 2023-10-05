@@ -1,0 +1,14 @@
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\bin\Debug\net7.0\Practice 7.exe
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\bin\Debug\net7.0\Practice 7.deps.json
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\bin\Debug\net7.0\Practice 7.runtimeconfig.json
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\bin\Debug\net7.0\Practice 7.dll
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\bin\Debug\net7.0\Practice 7.pdb
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.AssemblyInfoInputs.cache
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.AssemblyInfo.cs
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.csproj.CoreCompileInputs.cache
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.dll
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\refint\Practice 7.dll
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.pdb
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\Practice 7.genruntimeconfig.cache
+D:\daneshkar boot camp\c# projects\section 7\Practice 7\obj\Debug\net7.0\ref\Practice 7.dll
